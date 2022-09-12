@@ -29,6 +29,12 @@
       "name": "Mme. Panda",
       "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
       "votes": 0
+    },
+    {
+      "name": "justus",
+      "image": "https://www.theguardian.com/lifeandstyle/2020/sep/05/what-cats-mean-by-miaow-japans-pet-guru-knows-just-what-your-feline-friend-wants",
+      "votes": 0,
+      "id": 6
     }
   ]
 }
